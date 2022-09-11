@@ -1,0 +1,5 @@
+estaLogueado True
+--primerNombre Sebastian
+--apellido Solis
+--email solisfenger@gmail.com
+--password 1234567

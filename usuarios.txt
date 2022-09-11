@@ -1,0 +1,6 @@
+user[0]
+--firstName Sebastian
+--lastName Solis Fenger
+--email solisfenger@gmail.com
+--password 1234567 
+----------------------------------------
